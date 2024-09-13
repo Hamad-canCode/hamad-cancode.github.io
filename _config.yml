@@ -16,10 +16,10 @@ timezone:
 
 title: Tech Diary # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Tech Adventures of Muhammad Hamad # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+ So much to explore in the Software World, propbably like a never ending journey, sooo, why not write about it. Follow me on this journey where evrey adventure would be noted down in MY TECH DIARY!!!
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/Hamad-canCode # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
