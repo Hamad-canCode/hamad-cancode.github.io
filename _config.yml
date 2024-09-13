@@ -16,7 +16,7 @@ timezone:
 
 title: Tech Diary # the main title
 
-tagline: Tech Adventures of Muhammad Hamad # it will display as the subtitle
+tagline: Tech Adventures of Me! Muhammad Hamad # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
  So much to explore in the Software World, propbably like a never ending journey, sooo, why not write about it. Follow me on this journey where evrey adventure would be noted down in MY TECH DIARY!!!
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/Hamad-canCode/hamad-cancode.github.io/main/Avatar%20Assets/MyAvatar-2D-Pixelated.png
+avatar: "https://raw.githubusercontent.com/Hamad-canCode/hamad-cancode.github.io/main/Avatar%20Assets/MyAvatar-2D-Pixelated.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
