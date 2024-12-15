@@ -6,7 +6,7 @@ order: 4
 
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
-
+<!-- 
 [![MasterHead](https://raw.githubusercontent.com/Muhammad-Hamad309/Muhammad-Hamad309/main/imgs/LI-Banner.gif)]()
 
 
@@ -41,6 +41,6 @@ order: 4
 <img alt="" width="40px" src="https://raw.githubusercontent.com/Muhammad-Hamad309/Muhammad-Hamad309/be69086bbc91ee54a9575272319f5104bde078a7/LOGO/Mongo.svg" style="padding-right:10px;" />
 <img alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   
-</p>
+</p> -->
 
 
